@@ -1,6 +1,5 @@
 # Football-prediction-
 
-Chắc chắn rồi\! Dưới đây là phiên bản mô tả dự án "kèo bóng VTT" được tinh chỉnh lại để trông chuyên nghiệp, hấp dẫn và hiện đại hơn, kết hợp cùng các biểu tượng cảm xúc (emoji) để tăng tính trực quan.
 
 -----
 
