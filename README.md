@@ -1,5 +1,4 @@
 # Football-prediction-
-**Chắc chắn rồi! Dưới đây là phiên bản mô tả dự án "kèo bóng VTT" được tinh chỉnh lại để trông chuyên nghiệp, hấp dẫn và hiện đại hơn, kết hợp cùng các biểu tượng cảm xúc (emoji) để tăng tính trực quan.
 
 ⚽ kèo bóng VTT: Trợ lý Phân tích Bóng đá bằng AI 🚀
 Chào mừng bạn đến với kèo bóng VTT – một ứng dụng desktop đột phá, được xây dựng bằng Python và PyQt6, mang đến sức mạnh của Trí tuệ Nhân tạo (AI) vào thế giới phân tích bóng đá.
