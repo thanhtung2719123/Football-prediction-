@@ -1,0 +1,8 @@
+requests
+pandas
+beautifulsoup4
+PyQt6
+playwright
+google-generativeai
+matplotlib
+numpy 
